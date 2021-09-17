@@ -8,3 +8,9 @@
 **Question_4-a_DSA** - information of a book in a structure <br>
 
 **Question_4-b_DSA** - real estate using array of structures <br>
+
+**Question_5_DSA** - linked list with five elements <br>
+
+**Question_6_DSA** - insert an element in the existing linked list at the beginning <br>
+
+
