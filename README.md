@@ -1,4 +1,5 @@
 # UmangLaad-Data_Structure_Algorithm_Semester-3_SVVV
+
 **Question_1_DSA** - array of subjects <br>
 
 **Question_2_DSA** - array in reverse <br>
@@ -15,6 +16,7 @@
 
 **Question_7_DSA** - insertion in the stored list <br>
 
-**Question_8_DSA** - perform various operation on a singly linked list
-**Question_9_DSA** - perform diverse operations on doubly linked list 
+**Question_8_DSA** - perform various operation on a singly linked list <br>
+
+**Question_9_DSA** - perform diverse operations on doubly linked list <br>
 
