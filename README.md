@@ -22,3 +22,6 @@
 
 **Question_10_DSA** - perform miscellaneous operations on circular linked list <br>
 
+**Question_11_DSA** - program that implements a stack using an array
+
+**Question_12_DSA** - progam for linked list implementation of stack
