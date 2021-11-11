@@ -41,3 +41,9 @@
 **Question_16_DSA** - stack infix to prefix
 
 **Question_17_DSA** - stack prefix to infix
+
+### Connect with me
+
+<a href="https://www.linkedin.com/in/kunal-kushwaha/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
