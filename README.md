@@ -47,7 +47,7 @@
 
 
 
-<h1>Connect With Me</h1>
+<h2>Connect With Me</h2>
 
 <a href="https://www.linkedin.com/in/umang-laad-8463471b8">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
