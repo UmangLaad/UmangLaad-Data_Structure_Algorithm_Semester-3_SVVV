@@ -1,6 +1,6 @@
 ## UmangLaad-Data_Structure_Algorithm_Semester-3_SVVV
 
-<h3>Array</h3>
+<h2>Array</h2>
 
 **Question_1_DSA** - array of subjects <br>
 
@@ -12,7 +12,7 @@
 
 **Question_4-b_DSA** - real estate using array of structures <br>
 
-<h3>Linked List</h3>
+<h2>Linked List</h2>
 
 **Question_5_DSA** - linked list with five elements <br>
 
@@ -26,7 +26,7 @@
 
 **Question_10_DSA** - perform miscellaneous operations on circular linked list <br>
 
-<h3>Stack</h3>
+<h2>Stack</h2>
 
 **Question_11_DSA** - program that implements a stack using an array
 
@@ -47,7 +47,18 @@
 
 
 
-<h2>Connect With Me</h2>
+
+
+
+
+
+
+
+
+
+
+
+<h3>Connect With Me</h3>
 
 <a href="https://www.linkedin.com/in/umang-laad-8463471b8">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
