@@ -1,6 +1,6 @@
 # UmangLaad-Data_Structure_Algorithm_Semester-3_SVVV
 
-<ul> <li><h3>Array</h3> </ul>
+<ul><li><h3>Array</h3></ul>
 
 **Question_1_DSA** - array of subjects <br>
 
