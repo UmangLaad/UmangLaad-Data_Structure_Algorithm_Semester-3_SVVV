@@ -25,3 +25,17 @@
 **Question_11_DSA** - program that implements a stack using an array
 
 **Question_12_DSA** - progam for linked list implementation of stack
+
+**Question_13_DSA** - infix to postfix conversion using stack
+
+**Question_14_DSA** - infix to postfix considering parenthesis and associativity using stack
+
+**Question_15_DSA** - postfix to infix conversion using stack
+
+**Question_16_DSA** - stack infix to prefix
+
+**Question_17_DSA** - stack prefix to infix
+
+
+
+**Question_17_DSA** -
